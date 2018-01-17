@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_voirinst"
+        android:orderInCategory="101"
+        android:title="@string/action_voirinst" />
+    <item
+        android:id="@+id/action_maj_infouniv"
+        android:orderInCategory="100"
+        android:title="@string/action_maj_infouniv" />
+</menu>

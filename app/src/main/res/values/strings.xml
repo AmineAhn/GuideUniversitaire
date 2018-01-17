@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Guide Universitaire</string>
+    <string name="loginTV">AUTHENTIFICATION</string>
+    <string name="tvHintUsername">Nom d\'utilisateur</string>
+    <string name="etHintPassword">Mot de passe</string>
+    <string name="btnConnexion">CONNEXION</string>
+    <string name="tvOu">OU</string>
+    <string name="btnNvCompte">NOUVEAU COMPTE</string>
+    <string name="etNomUser">Votre nom d\'utilisateur</string>
+    <string name="etPrenom">Votre prénom</string>
+    <string name="etNom">Votre nom</string>
+    <string name="etMdp">Votre mot de passe</string>
+    <string name="etConfirmMdp">Confirmez votre mot de passe</string>
+    <string name="btnCreer">CRÉER</string>
+    <string name="title_activity_accueil">ActivityAccueil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btnCompleterProfil">COMPLÉTER PROFIL</string>
+    <string name="btnConsulterUniv">CATALOGUE UNIVERSITÉS</string>
+    <string name="btnConsulterUniv2">AJOUTER UNIVERSITÉS</string>
+    <string name="btnConsulerForm">CATALOGUE FORMATIONS</string>
+    <string name="btnConsulerForm2">AJOUTER FORMATIONS</string>
+    <string name="etNomUniv">Nom Université</string>
+    <string name="actvVilleUniv">Ville</string>
+    <string name="etDesc">Description de l\'université</string>
+    <string name="btnAjouterImgUniv">AJOUTER IMAGE</string>
+    <string name="btnOk">OK</string>
+    <string name="etNomInst">Nom Institution</string>
+    <string name="actvNomUniv">Nom Université</string>
+    <string name="etDescInst">Description de l\'institution</string>
+    <string name="btnAjUniv">+</string>
+    <string name="actvNomInst">Nom Institution</string>
+    <string name="actvNomForm">Nom Formation</string>
+    <string name="actvTypeForm">Type Formation</string>
+    <string name="etDescForm">Description Formation</string>
+
+
+    <string name="action_maj_infouniv">Mettre à jour Informations</string>
+    <string name="action_voirinst">Voir Institutions</string>
+    <string name="backdrop_title">CATALOGUE UNIVERSITÉS</string>
+    <string name="backdrop_subtitle">De tout le maroc</string>
+    <string name="backdrop_title_inst">CATALOGUE INSTITUTIONS</string>
+    <string name="backdrop_title_form">CATALOGUE FORMATIONS</string>
+
+    <string name="action_maj_infoinst">Mettre à jour Informations</string>
+    <string name="action_maj_infoform">Mettre à jour Informations</string>
+    <string name="action_ajouter_souhait">Ajouter comme souhait</string>
+    <string name="action_voirform">Voir les formations</string>
+    <string name="btnCatalogueInst">CATALOGUE INSTITUTIONS</string>
+    <string name="btnCatalogueInst2">AJOUTER INSTITUTIONS</string>
+    <string name="tv1nomuniv">Nom Université :</string>
+    <string name="tv2dudesc">Description de l\'université</string>
+    <string name="tv3duville">Ville :</string>
+
+</resources>
